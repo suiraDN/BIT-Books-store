@@ -1,5 +1,5 @@
 # BIT-Books-store
 
-mini Books store
+Mini Books store
 
 Not finished... 🙄
